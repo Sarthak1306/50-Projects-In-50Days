@@ -8,3 +8,5 @@
 <br>
 [Rotating Nav]()
 <br>
+[Hidden Search]()
+<br>
