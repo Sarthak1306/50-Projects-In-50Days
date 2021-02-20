@@ -2,11 +2,11 @@
 
 ---
 
-[Expanding Cards]()
+Day 1 - [Expanding Cards]()
 <br>
-[Progress Steps]()
+Day 2 - [Progress Steps]()
 <br>
-[Rotating Nav]()
+Day 3 - [Rotating Nav]()
 <br>
-[Hidden Search]()
+Day 4 - [Hidden Search]()
 <br>
