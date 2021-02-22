@@ -10,3 +10,5 @@ Day 3 - [Rotating Nav]()
 <br>
 Day 4 - [Hidden Search]()
 <br>
+Day 5 - [Blurry Loading Page]()
+<br>
