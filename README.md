@@ -13,3 +13,5 @@ Day 4 - [Hidden Search]()
 Day 5 - [Blurry Loading Page]()
 <br>
 Day 6 - [Scroll Animation]()
+<br>
+Day 7 - [Split Screen Landing Page]()
