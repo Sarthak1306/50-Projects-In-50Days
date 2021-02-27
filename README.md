@@ -15,3 +15,5 @@ Day 5 - [Blurry Loading Page]()
 Day 6 - [Scroll Animation]()
 <br>
 Day 7 - [Split Screen Landing Page]()
+<br>
+Day 8 - [Login Page Form Wave]()
